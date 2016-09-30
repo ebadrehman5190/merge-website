@@ -1,0 +1,9 @@
+Entry.php          - index.html
+data.php           - news.html
+member_data.php    - about.html
+search_by_date.php - features.html 
+payment.php        - contact.html
+
+
+
+                <input name="logout" type="button" id="logout" value="logout" onclick="window.location='logout1.php'" >

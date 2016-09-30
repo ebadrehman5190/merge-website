@@ -1,0 +1,27 @@
+body {
+		background-image: url("images/SMWpCenterPinch.png");
+		}
+    .field_set{
+        background-color:white;
+        border:solid;
+        text-align:center;
+        width: 550px;
+        height: 300px;
+        float: right;
+        margin-right: -1px;
+        }    
+    .header-bar{
+        background-color: skyblue;
+        margin-top: -8px;
+        height: 25px;
+        }
+    .header-option{
+        display: block;
+        text-align: left;
+        height: 25px;
+        width: 50px;
+        margin-left: 20px; 
+        }     
+    .header-bar > div:hover{
+        background-color: #b0dfea;
+        }
